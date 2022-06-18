@@ -23,5 +23,3 @@ if __name__ == "__main__":
         sys.exit(os.error("Argument required"))
 
     print(solution(sys.argv[1]))
-
-print(type(sys))
